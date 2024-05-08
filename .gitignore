@@ -396,3 +396,14 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Jupyter init
+*.ipynb_checkpoints   
+*delte.py
+
+# 104-Advanced Deep Learning
+report.txt
+final_report.py
+*.docx
+delete.py
+report.txt

@@ -1,0 +1,27 @@
+name: vdb
+
+channels:
+    - conda-forge
+
+dependencies:
+    - ipython
+    - matplotlib
+    - numpy
+    - pandas
+    - pip
+    - python
+    - python-graphviz
+    - tqdm
+    - nodejs
+    - python-docx
+    - scikit-sklearn
+    - plotly
+    - pip:
+        - cowpy
+        - deepface
+        - tensorflow
+        - tf-keras
+        - jupyterlab
+        - opencv-python
+        - ipywidgets
+        - pymilvus==2.4.1 # client

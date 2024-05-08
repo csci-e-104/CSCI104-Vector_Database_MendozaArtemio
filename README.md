@@ -1,2 +1,2 @@
-# csci-104-FinalProject
+# CSCI-104-FinalProject
  Vector Database Demo
